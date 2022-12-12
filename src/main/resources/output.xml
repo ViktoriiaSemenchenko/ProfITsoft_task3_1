@@ -1,0 +1,6 @@
+<violations>
+    <violation type="DRUNK_DRIVING" fine_amount="2.2572E8" />
+    <violation type="NO_LICENSE" fine_amount="2.1945E8" />
+    <violation type="RED_TRAFFIC_LIGHT" fine_amount="1.39194E8" />
+    <violation type="SPEEDING" fine_amount="6.1446E7" />
+</violations>
